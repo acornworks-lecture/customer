@@ -5,7 +5,6 @@ import com.acornworks.customer.domains.UserInfo;
 import com.acornworks.customer.repositories.UserDataRepository;
 import com.acornworks.customer.repositories.UserInfoRepository;
 import com.fasterxml.jackson.databind.JsonNode;
-import org.apache.catalina.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
